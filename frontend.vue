@@ -21,17 +21,17 @@ color: #333;
 overflow-x: hidden;
 }
 * {
+box-sizing: border-box;
 margin: 0;
 padding: 0;
-box-sizing: border-box;
 }
 h1, h2, h3 {
 font-weight: 600;
 margin-bottom: 1rem;
 }
 p {
-line-height: 1.6;
 font-weight: 300;
+line-height: 1.6;
 }
 button {
 font-family: inherit;
@@ -58,3 +58,4 @@ createApp(App).mount('#app')
 "vite": "^5.0.0"
 }
 }
+
