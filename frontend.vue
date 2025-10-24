@@ -20,17 +20,17 @@ box-sizing: border-box;
 }
 body {
 font-family: 'Poppins', sans-serif;
-background-color: #fff;
 color: #333;
+background-color: #fff;
 overflow-x: hidden;
 }
 h1, h2, h3 {
-font-weight: 600;
 margin-bottom: 1rem;
+font-weight: 600;
 }
 p {
-line-height: 1.6;
 font-weight: 300;
+line-height: 1.6;
 }
 button {
 font-family: inherit;
