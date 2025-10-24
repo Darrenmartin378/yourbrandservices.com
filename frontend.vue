@@ -16,14 +16,14 @@ url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=s
 
 body {
 font-family: 'Poppins', sans-serif;
-background-color: #fff;
 color: #333;
+background-color: #fff;
 overflow-x: hidden;
 }
 * {
+box-sizing: border-box;
 margin: 0;
 padding: 0;
-box-sizing: border-box;
 }
 h1, h2, h3 {
 font-weight: 600;
